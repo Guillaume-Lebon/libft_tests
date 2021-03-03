@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: at42-libft-unit-tests
+Upstream-Contact: Cyprien Augier <cyprien.augier@protonmail.com>
+Source: https://gitlab.com/neirpyc/at42-libft-unit-tests
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
